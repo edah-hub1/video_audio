@@ -70,7 +70,7 @@ Safari (latest)
 License
 This project is open source and available under the MIT License.
 
-Note: The current implementation uses placeholder media from external sources. Replace with your own media files for production use.
+
 
 
 
