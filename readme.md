@@ -73,12 +73,6 @@ This project is open source and available under the MIT License.
 Note: The current implementation uses placeholder media from external sources. Replace with your own media files for production use.
 
 
-### Key Features of This README:
-1. **Clear Feature Overview** - Icons make features scannable
-2. **Setup Instructions** - Simple steps to get started
-3. **Customization Guide** - How to add your own media
-4. **Validation Reference** - Table summarizing form rules
-5. **File Structure** - Suggested organization
-6. **Browser Compatibility** - Tested environments
+
 
 
