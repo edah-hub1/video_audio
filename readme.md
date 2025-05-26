@@ -25,3 +25,10 @@ A responsive HTML5 webpage featuring multimedia elements, a validated registrati
 - JavaScript (for form handling)
 
 ## File Structure
+project-folder/
+│── index.html # Main HTML file
+│── README.md # This documentation
+│── assets/ # Optional folder for local assets
+├── images/ # For local images
+├── audio/ # For local audio files
+└── video/ # For local video files
